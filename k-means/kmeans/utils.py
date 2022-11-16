@@ -1,6 +1,6 @@
-import os
-import logging
 import errno
+import logging
+import os
 
 
 def mkdir_p(path):
